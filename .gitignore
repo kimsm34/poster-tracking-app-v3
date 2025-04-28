@@ -1,0 +1,39 @@
+# 기본 node & Next.js
+node_modules/
+.next/
+out/
+dist/
+coverage/
+
+# 환경 변수
+.env
+.env.*.local
+.env.local
+
+# firebase 관련 (로컬에서만 쓰는 설정)
+firebase-debug.log
+.firebaserc
+.firebase/
+.firestore/
+.storage/
+
+# macOS / VSCode / 시스템 관련
+.DS_Store
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Typescript
+*.tsbuildinfo
+
+# Log
+*.log
+logs
+*.log.*
+
+# setRole 스크립트 관련
+scripts/serviceAccountKey.json
+scripts/setRole.js

@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/lib/*": [
+        "lib/*"
+      ]
+    }
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "firebase": "^11.6.1",
+    "firebase-admin": "^13.3.0",
+    "heic-convert": "^2.1.0",
+    "jszip": "^3.10.1",
+    "mapbox-gl": "^3.11.1",
+    "next": "^15.3.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-dropzone": "^14.3.8",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/node-fetch": "^2.6.12",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@types/react-dropzone": "^4.2.2",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.3.2",
+    "tsx": "^4.19.4",
+    "typescript": "5.8.3"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
