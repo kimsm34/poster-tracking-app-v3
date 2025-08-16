@@ -29,6 +29,7 @@
 관리자와 선관위는 시스템에 기록된 모든 데이터(위치, 부착 여부, 담당자, 완료 시간, 현장 사진 등)를 종합한 최종 보고서를 생성하고, **Chrome 브라우저의 인쇄 기능**을 통해 깔끔한 포맷으로 출력할 수 있습니다.
 
 [보고서 예시]
+<img width="651" height="763" alt="Screenshot 2025-08-16 at 2 33 42 PM" src="https://github.com/user-attachments/assets/f6697e15-9642-4adb-b55e-852e43109e68" />
 
 
 ---
